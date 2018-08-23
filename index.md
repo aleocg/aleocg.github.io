@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## 创作者工具箱
 
-You can use the [editor on GitHub](https://github.com/aleocg/aleocg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+链接测试 [豆瓣电影](https://movie.douban.com/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 电影
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+引用测试
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](http://wx1.sinaimg.cn/large/631d69f6gy1fuiwnc8wj3j21hc0u0gt2.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+图片测试
 
-### Jekyll Themes
+### 游戏
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aleocg/aleocg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages
 
-### Support or Contact
+### 建筑
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble
